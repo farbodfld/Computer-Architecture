@@ -1,0 +1,14 @@
+direct map:
+
+block size: 1 -> hit rate: 0%
+block size: 2 -> hit rate: 43.75%
+block size: 4 -> hite rate: 56.26%
+block size: 8 -> hit rate: 43.75%
+block size: 16 -> hit rate: 0&
+
+
+multi-wat:
+
+block per set: 2 -> hit rate: 0%
+block per set: 4 -> hit rate: 0%
+block per set: 8 -> hit rate: 0%

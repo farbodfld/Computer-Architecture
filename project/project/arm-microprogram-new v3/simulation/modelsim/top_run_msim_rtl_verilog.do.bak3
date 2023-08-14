@@ -1,0 +1,28 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/sequentiallogic.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/arm.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/extend.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/mux3.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/decode.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/top.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/shifter.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/alu.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/flopenr.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/controlmemory.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/controlbufferregister.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/controlunit.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/flopr.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/condcheck.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/regfile.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/controller.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/mux2.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/condlogic.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/datapath.sv}
+vlog -sv -work work +incdir+/home/parsa/quartusprojects/arm-microprogram-new {/home/parsa/quartusprojects/arm-microprogram-new/mem.sv}
+

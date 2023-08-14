@@ -1,0 +1,4 @@
+Warning (10273): Verilog HDL warning at extend.sv(12): extended using "x" or "z" File: /home/parsa/quartusprojects/arm-microprogram-new (copy)/extend.sv Line: 12
+Info (10281): Verilog HDL Declaration information at datapath.sv(15): object "ExtImm" differs only in case from object "extimm" in the same scope File: /home/parsa/quartusprojects/arm-microprogram-new (copy)/datapath.sv Line: 15
+Info (10281): Verilog HDL Declaration information at datapath.sv(10): object "ALUSrcA" differs only in case from object "aluSrca" in the same scope File: /home/parsa/quartusprojects/arm-microprogram-new (copy)/datapath.sv Line: 10
+Info (10281): Verilog HDL Declaration information at datapath.sv(11): object "ALUSrcB" differs only in case from object "aluSrcb" in the same scope File: /home/parsa/quartusprojects/arm-microprogram-new (copy)/datapath.sv Line: 11

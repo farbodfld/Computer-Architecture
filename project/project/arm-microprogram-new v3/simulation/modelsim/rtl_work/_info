@@ -1,0 +1,556 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/parsa/quartusprojects/arm-microprogram-new v3/simulation/modelsim
+valu
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1624743046
+!i10b 1
+!s100 PM^d3T[Eh7nNQaDL<Sa7m3
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I54e><A;iX^fWOBkWa7WEO2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1624709462
+8/home/parsa/quartusprojects/arm-microprogram-new v3/alu.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/alu.sv
+!i122 6
+Z5 L0 1 23
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1624743046.000000
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/alu.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/alu.sv|
+!i113 1
+Z8 o-sv -work work
+Z9 !s92 -sv -work work {+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3}
+Z10 tCvgOpt 0
+varm
+R1
+Z11 !s110 1624743045
+!i10b 1
+!s100 FBHWFW?K41m>:hI4WdQZU2
+R3
+IUMZX6@5m7z:WdB:ojf^VR0
+R4
+S1
+R0
+Z12 w1624552369
+8/home/parsa/quartusprojects/arm-microprogram-new v3/arm.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/arm.sv
+!i122 0
+L0 2 20
+R6
+r1
+!s85 0
+31
+Z13 !s108 1624743045.000000
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/arm.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/arm.sv|
+!i113 1
+R8
+R9
+R10
+vcondcheck
+R1
+R2
+!i10b 1
+!s100 e62==iP@A8SJRmCPmkS1]1
+R3
+IK;UcjSFWXhkbK[D3:FIGc3
+R4
+S1
+R0
+R12
+8/home/parsa/quartusprojects/arm-microprogram-new v3/condcheck.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/condcheck.sv
+!i122 9
+L0 1 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/condcheck.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/condcheck.sv|
+!i113 1
+R8
+R9
+R10
+vcondlogic
+R1
+Z14 !s110 1624743047
+!i10b 1
+!s100 UF@nH=S:7MG<M65NUSTRH1
+R3
+I9[CDA73>nY6zN_0Q18QPE1
+R4
+S1
+R0
+w1624742750
+8/home/parsa/quartusprojects/arm-microprogram-new v3/condlogic.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/condlogic.sv
+!i122 13
+R5
+R6
+r1
+!s85 0
+31
+Z15 !s108 1624743047.000000
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/condlogic.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/condlogic.sv|
+!i113 1
+R8
+R9
+R10
+vcontroller
+R1
+R14
+!i10b 1
+!s100 GQ2>H:1K_BCTkDMF;dnGk0
+R3
+I_3Kz_N:anHBW@B[8TK];o3
+R4
+S1
+R0
+R12
+8/home/parsa/quartusprojects/arm-microprogram-new v3/controller.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/controller.sv
+!i122 11
+L0 1 27
+R6
+r1
+!s85 0
+31
+R15
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/controller.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/controller.sv|
+!i113 1
+R8
+R9
+R10
+vctrlbffreg
+R1
+R14
+!i10b 1
+!s100 6Y5F8k2<IB5YlbNA1ik_`1
+R3
+IP5JAjd_^NCzdXRgU0h65;1
+R4
+S1
+R0
+w1624712029
+8/home/parsa/quartusprojects/arm-microprogram-new v3/ctrlbffreg.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/ctrlbffreg.sv
+!i122 18
+Z16 L0 1 9
+R6
+r1
+!s85 0
+31
+R15
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/ctrlbffreg.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/ctrlbffreg.sv|
+!i113 1
+R8
+R9
+R10
+vctrlmem
+R1
+R14
+!i10b 1
+!s100 92bPGN1e1O`Jf<==4;zFA1
+R3
+InNIAICMKTeB=<Z3UoNOHA2
+R4
+S1
+R0
+w1624742842
+8/home/parsa/quartusprojects/arm-microprogram-new v3/ctrlmem.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/ctrlmem.sv
+!i122 17
+Z17 L0 1 18
+R6
+r1
+!s85 0
+31
+R15
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/ctrlmem.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/ctrlmem.sv|
+!i113 1
+R8
+R9
+R10
+vctrlunit
+R1
+R14
+!i10b 1
+!s100 @3TH0Nn1FK5EMae]H_hU63
+R3
+I59V<KHS4SO]ifz<dH1d[M1
+R4
+S1
+R0
+w1624730888
+8/home/parsa/quartusprojects/arm-microprogram-new v3/ctrlunit.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/ctrlunit.sv
+!i122 15
+R17
+R6
+r1
+!s85 0
+31
+R15
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/ctrlunit.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/ctrlunit.sv|
+!i113 1
+R8
+R9
+R10
+vdatapath
+R1
+R14
+!i10b 1
+!s100 =0hi>h92GjeGBheU:VNU;0
+R3
+I[99NhULJdeD6JGm91Z_E]2
+R4
+S1
+R0
+R12
+8/home/parsa/quartusprojects/arm-microprogram-new v3/datapath.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/datapath.sv
+!i122 14
+L0 1 58
+R6
+r1
+!s85 0
+31
+R15
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/datapath.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/datapath.sv|
+!i113 1
+R8
+R9
+R10
+vdecode
+R1
+R2
+!i10b 1
+!s100 _95R0gYb:Fi0ZPl0dJGcI0
+R3
+I07DX??Ee2:WPZ4WP`4R4e3
+R4
+S1
+R0
+w1624739923
+8/home/parsa/quartusprojects/arm-microprogram-new v3/decode.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/decode.sv
+!i122 3
+L0 1 45
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/decode.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/decode.sv|
+!i113 1
+R8
+R9
+R10
+vextend
+R1
+R11
+!i10b 1
+!s100 YVQ5=gLLmKOjbcUHNDSg>2
+R3
+IF:E`Q0J00mV5J4EDY^CBY2
+R4
+S1
+R0
+R12
+8/home/parsa/quartusprojects/arm-microprogram-new v3/extend.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/extend.sv
+!i122 1
+L0 1 15
+R6
+r1
+!s85 0
+31
+R13
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/extend.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/extend.sv|
+!i113 1
+R8
+R9
+R10
+vflopenr
+R1
+R2
+!i10b 1
+!s100 EW?h?AlN<FDPO1B>T1HOG1
+R3
+Ib>0>eP>e;jkD>MhYRII672
+R4
+S1
+R0
+R12
+8/home/parsa/quartusprojects/arm-microprogram-new v3/flopenr.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/flopenr.sv
+!i122 7
+R16
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/flopenr.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/flopenr.sv|
+!i113 1
+R8
+R9
+R10
+vflopr
+R1
+R2
+!i10b 1
+!s100 O[7JFKZPJ7Di;LZ=UJN[N2
+R3
+IZ4^kEHB>2TT9@7z1Ki5B?1
+R4
+S1
+R0
+R12
+8/home/parsa/quartusprojects/arm-microprogram-new v3/flopr.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/flopr.sv
+!i122 8
+L0 1 8
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/flopr.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/flopr.sv|
+!i113 1
+R8
+R9
+R10
+vmem
+R1
+R14
+!i10b 1
+!s100 Nli4E3PIcN1_M^4Dmd>bL0
+R3
+IJ51<8:?A>END3b4ITc8PD2
+R4
+S1
+R0
+R12
+8/home/parsa/quartusprojects/arm-microprogram-new v3/mem.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/mem.sv
+!i122 19
+L0 2 14
+R6
+r1
+!s85 0
+31
+R15
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/mem.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/mem.sv|
+!i113 1
+R8
+R9
+R10
+vmux2
+R1
+R14
+!i10b 1
+!s100 z[W@h;8OJV8ISY^9aZPL12
+R3
+IL5hQ6Gn95j9DTgccFS?>01
+R4
+S1
+R0
+R12
+8/home/parsa/quartusprojects/arm-microprogram-new v3/mux2.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/mux2.sv
+!i122 12
+L0 1 6
+R6
+r1
+!s85 0
+31
+R15
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/mux2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/mux2.sv|
+!i113 1
+R8
+R9
+R10
+vmux3
+R1
+R2
+!i10b 1
+!s100 GWL]fOg6Eaiz^M?z27cLf1
+R3
+IGZ[[:5Q9D9IT3DG`MgfN@1
+R4
+S1
+R0
+R12
+8/home/parsa/quartusprojects/arm-microprogram-new v3/mux3.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/mux3.sv
+!i122 2
+L0 1 7
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/mux3.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/mux3.sv|
+!i113 1
+R8
+R9
+R10
+vregfile
+R1
+R2
+!i10b 1
+!s100 gBUcVJa14knm^SmL05>S52
+R3
+I3mgz5_2M4bgS7DYdD?GF:1
+R4
+S1
+R0
+R12
+8/home/parsa/quartusprojects/arm-microprogram-new v3/regfile.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/regfile.sv
+!i122 10
+R17
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/regfile.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/regfile.sv|
+!i113 1
+R8
+R9
+R10
+vseqlogic
+R1
+R14
+!i10b 1
+!s100 :G<IB>]^?n1Q[nE;T`4c^3
+R3
+IRFH7zP[jd9QVm32Tkk]e:0
+R4
+S1
+R0
+w1624742892
+8/home/parsa/quartusprojects/arm-microprogram-new v3/seqlogic.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/seqlogic.sv
+!i122 16
+L0 1 17
+R6
+r1
+!s85 0
+31
+R15
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/seqlogic.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/seqlogic.sv|
+!i113 1
+R8
+R9
+R10
+vshifter
+R1
+R2
+!i10b 1
+!s100 B[:YCVgX9ADnBmRPi]eVM3
+R3
+I_`SEZ^aRcHVk<C^ieoh872
+R4
+S1
+R0
+R12
+8/home/parsa/quartusprojects/arm-microprogram-new v3/shifter.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/shifter.sv
+!i122 5
+L0 1 20
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/shifter.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/shifter.sv|
+!i113 1
+R8
+R9
+R10
+vtestbench
+R1
+!s110 1624743060
+!i10b 1
+!s100 LDJ^Xg>;PVSg_Y>^Cnan=1
+R3
+I[F8`TIMWh9A;fEWC09VlK3
+R4
+S1
+R0
+w1624554037
+8/home/parsa/quartusprojects/arm-microprogram-new v3/testbench.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/testbench.sv
+!i122 20
+L0 1 32
+R6
+r1
+!s85 0
+31
+!s108 1624743060.000000
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/testbench.sv|
+!s90 -reportprogress|300|-work|work|/home/parsa/quartusprojects/arm-microprogram-new v3/testbench.sv|
+!i113 1
+o-work work
+R10
+vtop
+R1
+R2
+!i10b 1
+!s100 f9o1:@Y>^F_;Kf4:VY=gO2
+R3
+IKkV^2Lz9OL?KhjdNDIce[3
+R4
+S1
+R0
+R12
+8/home/parsa/quartusprojects/arm-microprogram-new v3/top.sv
+F/home/parsa/quartusprojects/arm-microprogram-new v3/top.sv
+!i122 4
+L0 1 11
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/parsa/quartusprojects/arm-microprogram-new v3/top.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/quartusprojects/arm-microprogram-new v3|/home/parsa/quartusprojects/arm-microprogram-new v3/top.sv|
+!i113 1
+R8
+R9
+R10

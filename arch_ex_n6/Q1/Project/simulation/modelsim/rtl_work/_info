@@ -1,0 +1,452 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/parsa/intelFPGA_lite/Projects/SingleCycle/simulation/modelsim
+vadder
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1620494249
+!i10b 1
+!s100 cWDcalMKmcC?1E?@i4]N]1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IcHk8eR^Y]^8iC_nUHNWU`2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1620377470
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/adder.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/adder.sv
+!i122 9
+L0 1 7
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1620494249.000000
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/adder.sv|
+!i113 1
+Z7 o-sv -work work
+Z8 !s92 -sv -work work +incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle
+Z9 tCvgOpt 0
+valu
+R1
+R2
+!i10b 1
+!s100 NQ<j5kHKZ7nbB`P]99U7h2
+R3
+In_W0BA<9:Q>O5PlF:DkEX0
+R4
+S1
+R0
+w1620387873
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/alu.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/alu.sv
+!i122 12
+L0 1 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/alu.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/alu.sv|
+!i113 1
+R7
+R8
+R9
+varm
+R1
+R2
+!i10b 1
+!s100 z0AbFe944>gGfgNQn7Rmh1
+R3
+I?OWnJEM22mSQUZGEEbEcb1
+R4
+S1
+R0
+w1620429583
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/arm.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/arm.sv
+!i122 1
+L0 1 14
+R5
+r1
+!s85 0
+31
+Z10 !s108 1620494248.000000
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/arm.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/arm.sv|
+!i113 1
+R7
+R8
+R9
+vcondcheck
+R1
+R2
+!i10b 1
+!s100 W026QUDo8[8W?fd0zLnQ00
+R3
+IFalN;XJ^4G>c5C@E5`JWz1
+R4
+S1
+R0
+Z11 w1620412041
+Z12 8/home/parsa/intelFPGA_lite/Projects/SingleCycle/condlogic.sv
+Z13 F/home/parsa/intelFPGA_lite/Projects/SingleCycle/condlogic.sv
+!i122 4
+L0 21 26
+R5
+r1
+!s85 0
+31
+R6
+Z14 !s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/condlogic.sv|
+Z15 !s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/condlogic.sv|
+!i113 1
+R7
+R8
+R9
+vcondlogic
+R1
+R2
+!i10b 1
+!s100 dURU3:odNUF4OCGiND?mc2
+R3
+IA[zaO`L?i5ZK>0G6P2ZFM3
+R4
+S1
+R0
+R11
+R12
+R13
+!i122 4
+L0 1 19
+R5
+r1
+!s85 0
+31
+R6
+R14
+R15
+!i113 1
+R7
+R8
+R9
+vcontroller
+R1
+R2
+!i10b 1
+!s100 6Bn1mh0E5a>kHFinV`KB;0
+R3
+I89Vkzb`@GMHQhZhjMBolY0
+R4
+S1
+R0
+w1620413723
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/controller.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/controller.sv
+!i122 2
+Z16 L0 1 18
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/controller.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/controller.sv|
+!i113 1
+R7
+R8
+R9
+vdatapath
+R1
+R2
+!i10b 1
+!s100 [ccKX1z3GdFVz2I`ZzaFU2
+R3
+IRc:P?I[9;>c`hk<YRZ;_d2
+R4
+S1
+R0
+w1620491468
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/datapath.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/datapath.sv
+!i122 6
+L0 1 63
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/datapath.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/datapath.sv|
+!i113 1
+R7
+R8
+R9
+vdecoder
+R1
+R2
+!i10b 1
+!s100 HfJgO<Y1FF]iYb^`UFY`;2
+R3
+IbgXznNll1lI7[Id03lHEd3
+R4
+S1
+R0
+w1620474966
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/decoder.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/decoder.sv
+!i122 3
+L0 1 51
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/decoder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/decoder.sv|
+!i113 1
+R7
+R8
+R9
+vdmem
+R1
+R2
+!i10b 1
+!s100 B`_GWjb6O6Kd=I=>1aOkJ2
+R3
+Ii2;XVIc@1Y]l7f@k829`X2
+R4
+S1
+R0
+w1620377912
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/dmem.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/dmem.sv
+!i122 13
+Z17 L0 1 8
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/dmem.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/dmem.sv|
+!i113 1
+R7
+R8
+R9
+vextend
+R1
+R2
+!i10b 1
+!s100 YVQ5=gLLmKOjbcUHNDSg>2
+R3
+IdRYVdElkcDIXoPO7P951R2
+R4
+S1
+R0
+w1620377530
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/extend.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/extend.sv
+!i122 11
+L0 1 15
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/extend.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/extend.sv|
+!i113 1
+R7
+R8
+R9
+vflopenr
+R1
+R2
+!i10b 1
+!s100 EW?h?AlN<FDPO1B>T1HOG1
+R3
+IKA?0BzKIVMR^VdG17AW=Y0
+R4
+S1
+R0
+w1620377640
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/flopenr.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/flopenr.sv
+!i122 5
+Z18 L0 1 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/flopenr.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/flopenr.sv|
+!i113 1
+R7
+R8
+R9
+vflopr
+R1
+R2
+!i10b 1
+!s100 O[7JFKZPJ7Di;LZ=UJN[N2
+R3
+IVo;@N9gSSc_GKDEl[SUaB1
+R4
+S1
+R0
+w1620377578
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/flopr.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/flopr.sv
+!i122 8
+R17
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/flopr.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/flopr.sv|
+!i113 1
+R7
+R8
+R9
+vimem
+R1
+R2
+!i10b 1
+!s100 ;QDdCi3oHC^EUaiRWj;G73
+R3
+I6Tz]5:9c]YLRMBh7R;01N1
+R4
+S1
+R0
+w1620424749
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/imem.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/imem.sv
+!i122 14
+R18
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/imem.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/imem.sv|
+!i113 1
+R7
+R8
+R9
+vmux2
+R1
+R2
+!i10b 1
+!s100 z[W@h;8OJV8ISY^9aZPL12
+R3
+IXHKcl0H_^cZM8PaEKBf>Q3
+R4
+S1
+R0
+w1620377676
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/mux2.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/mux2.sv
+!i122 7
+L0 1 6
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/mux2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/mux2.sv|
+!i113 1
+R7
+R8
+R9
+vregfile
+R1
+R2
+!i10b 1
+!s100 gBUcVJa14knm^SmL05>S52
+R3
+I1z688`l0_Ml^FGc9EV;8a1
+R4
+S1
+R0
+w1620377414
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/regfile.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/regfile.sv
+!i122 10
+R16
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/regfile.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/regfile.sv|
+!i113 1
+R7
+R8
+R9
+vtestbench
+R1
+!s110 1620500553
+!i10b 1
+!s100 77TRY_J0eNlbSo@mF9hmj2
+R3
+I:nUcoJ:gK3WSQ:lEm7i]F1
+R4
+S1
+R0
+w1620493984
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/tbrsc.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/tbrsc.sv
+!i122 16
+L0 1 30
+R5
+r1
+!s85 0
+31
+!s108 1620500553.000000
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/tbrsc.sv|
+!s90 -reportprogress|300|-work|work|/home/parsa/intelFPGA_lite/Projects/SingleCycle/tbrsc.sv|
+!i113 1
+o-work work
+R9
+vtop
+R1
+!s110 1620494248
+!i10b 1
+!s100 90]L^K4K<8OBI74O<i0g`1
+R3
+I^iF^HLHU<`Qn>[Cm9HFIO2
+R4
+S1
+R0
+w1620377870
+8/home/parsa/intelFPGA_lite/Projects/SingleCycle/top.sv
+F/home/parsa/intelFPGA_lite/Projects/SingleCycle/top.sv
+!i122 0
+L0 1 11
+R5
+r1
+!s85 0
+31
+R10
+!s107 /home/parsa/intelFPGA_lite/Projects/SingleCycle/top.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/parsa/intelFPGA_lite/Projects/SingleCycle|/home/parsa/intelFPGA_lite/Projects/SingleCycle/top.sv|
+!i113 1
+R7
+R8
+R9
